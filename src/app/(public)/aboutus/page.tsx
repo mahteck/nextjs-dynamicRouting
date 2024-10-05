@@ -1,7 +1,7 @@
 import Navbar from "../components/Navbar";
 
 export default function Aboutus() {
-    const name: String = "MAH TECK"
+    const name: string = "MAH TECK"
     return (
         <>
             <br />

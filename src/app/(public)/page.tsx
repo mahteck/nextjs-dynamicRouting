@@ -1,6 +1,6 @@
 
 export default function Home() {
-  const name: String = "MAH TECK"
+  const name: string = "MAH TECK"
   return (
     <>
       <br />

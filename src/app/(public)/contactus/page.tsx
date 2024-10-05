@@ -1,5 +1,5 @@
 export default function ContactUs() {
-    const name: String = "MAH TECK"
+    const name: string = "MAH TECK"
     return (
         <>
             <br />
